@@ -1,0 +1,78 @@
+<div class="container mt-4">
+  <h2 *ngIf="!clienteId">Cadastrar Cliente</h2>
+  <h2 *ngIf="clienteId">Editar Cliente</h2>
+
+  <form [formGroup]="form" (ngSubmit)="salvar()">
+    <div class="mb-3">
+      <label class="form-label">Nome</label>
+      <input formControlName="nome" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Documento</label>
+      <input formControlName="documento" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Tipo Pessoa</label>
+      <input formControlName="tipoPessoa" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Data de Nascimento</label>
+      <input type="date" formControlName="dataNascimento" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Telefone</label>
+      <input formControlName="telefone" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Email</label>
+      <input formControlName="email" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Inscrição Estadual</label>
+      <input formControlName="inscricaoEstadual" class="form-control" />
+    </div>
+
+    <div class="form-check mb-3">
+      <input type="checkbox" formControlName="isento" class="form-check-input" />
+      <label class="form-check-label">Isento</label>
+    </div>
+
+    <h4>Endereço</h4>
+
+    <div formGroupName="endereco">
+      <div class="mb-3">
+        <label class="form-label">CEP</label>
+        <input formControlName="cep" class="form-control" />
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Logradouro</label>
+        <input formControlName="logradouro" class="form-control" />
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Número</label>
+        <input formControlName="numero" class="form-control" />
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Bairro</label>
+        <input formControlName="bairro" class="form-control" />
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Cidade</label>
+        <input formControlName="cidade" class="form-control" />
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Estado</label>
+        <input formControlName="estado" class="form-control" maxlength="2" />
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-success me-2" [disabled]="form.invalid">Salvar</button>
+    <button type="button" class="btn btn-secondary" (click)="cancelar()">Cancelar</button>
+  </form>
+</div>

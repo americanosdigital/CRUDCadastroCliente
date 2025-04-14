@@ -1,0 +1,11 @@
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\bin\Debug\net8.0\CadastroClienteAPP.Domain.deps.json
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\bin\Debug\net8.0\CadastroClienteAPP.Domain.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\bin\Debug\net8.0\CadastroClienteAPP.Domain.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.AssemblyInfoInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.AssemblyInfo.cs
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.csproj.CoreCompileInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\refint\CadastroClienteAPP.Domain.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\CadastroClienteAPP.Domain.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Domain\obj\Debug\net8.0\ref\CadastroClienteAPP.Domain.dll

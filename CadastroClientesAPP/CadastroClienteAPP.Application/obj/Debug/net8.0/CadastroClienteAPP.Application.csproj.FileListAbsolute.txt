@@ -1,0 +1,15 @@
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\bin\Debug\net8.0\CadastroClienteAPP.Application.deps.json
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\bin\Debug\net8.0\CadastroClienteAPP.Application.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\bin\Debug\net8.0\CadastroClienteAPP.Application.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\bin\Debug\net8.0\CadastroClienteAPP.Domain.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\bin\Debug\net8.0\CadastroClienteAPP.Domain.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.csproj.AssemblyReference.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.AssemblyInfoInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.AssemblyInfo.cs
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.csproj.CoreCompileInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\Cadastro.317716A7.Up2Date
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\refint\CadastroClienteAPP.Application.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\CadastroClienteAPP.Application.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Application\obj\Debug\net8.0\ref\CadastroClienteAPP.Application.dll

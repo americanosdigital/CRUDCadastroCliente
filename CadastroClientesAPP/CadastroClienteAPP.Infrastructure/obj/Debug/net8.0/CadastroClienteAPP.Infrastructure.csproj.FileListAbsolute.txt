@@ -1,0 +1,17 @@
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Infrastructure.deps.json
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Infrastructure.runtimeconfig.json
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Infrastructure.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Infrastructure.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Domain.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\bin\Debug\net8.0\CadastroClienteAPP.Domain.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.csproj.AssemblyReference.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.AssemblyInfoInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.AssemblyInfo.cs
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\Cadastro.A612D6E8.Up2Date
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\refint\CadastroClienteAPP.Infrastructure.dll
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.pdb
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\CadastroClienteAPP.Infrastructure.genruntimeconfig.cache
+E:\Documents\Projetos\TesteDevRommanel\CadastroClientesAPP\CadastroClienteAPP.Infrastructure\obj\Debug\net8.0\ref\CadastroClienteAPP.Infrastructure.dll

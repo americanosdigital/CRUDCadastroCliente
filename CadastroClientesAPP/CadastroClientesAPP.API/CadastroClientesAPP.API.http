@@ -1,0 +1,6 @@
+@CadastroClientesAPP.API_HostAddress = http://localhost:5256
+
+GET {{CadastroClientesAPP.API_HostAddress}}/cliente/
+Accept: application/json
+
+###
